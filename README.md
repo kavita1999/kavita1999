@@ -2,8 +2,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
- [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kavita-poonia-168937183/)](https://www.linkedin.com/in/kavita-poonia-168937183/) 
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavitapoonia13@gmail.com)](mailto:kavitapoonia13@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-kavitapoonia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kavita-poonia-168937183/)](https://www.linkedin.com/in/kavita-poonia-168937183/) 
+[![Gmail Badge](https://img.shields.io/badge/-kavitapoonia13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavitapoonia13@gmail.com)](mailto:kavitapoonia13@gmail.com)
 
 I am Kavita 😃. I am from Hanumangarh, Rajasthan and currently doing my B.Tech from National Institute of Technology Raipur 🏫. I love to explore and learn about new things.
 ## 👯 Communities
