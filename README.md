@@ -22,8 +22,6 @@ Talk to me about
 - 💬 Ask me about anything and everything.
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
 
-```⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
+
